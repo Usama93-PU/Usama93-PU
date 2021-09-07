@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Currently pursuing **Master’s in Business Analytics & Information Management at Krannert School of Management, Purdue University (Ranked#6 in USA)**. 🎇
+🔭 Currently pursuing **Master’s in Business Analytics & Information Management at Krannert School of Management, Purdue University** (Ranked#6 in USA). 🎇
 
 💡 **4.5 years** of experience in digital marketing analytics and E-Commerce at Nestlé Pakistan. 📊 In addition, has also worked as **Analytics Consultant at Krenicki Center for Data Analytics & Machine Learning**. Also, doing independent projects with two undisclosed US companies.
 
