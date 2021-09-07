@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Usama93-PU/Usama93-PU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently pursuing **Master’s in Business Analytics & Information Management at Krannert School of Management, Purdue University (Ranked#6 in USA)**. 🎇
 
-Here are some ideas to get you started:
+💡 **4.5 years** of experience in digital marketing analytics and E-Commerce at Nestlé Pakistan. 📊 In addition, has also worked as **Analytics Consultant at Krenicki Center for Data Analytics & Machine Learning**. Also, doing independent projects with two undisclosed US companies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 **Winner** Inaugural ECS Hackathon Competition - 2021
+
+💪 **Skills:** MySQL, R, Tableau, Python, Excel, SAS EM, SimQuick, Minitab, PowerBI, MongoDB, PowerPoint
+💪 **Core Competencies:** Business Analytics, Machine Learning, Statistical Modeling, Data Mining, Data Visualization, Predictive Analytics, Prescriptive Analytics, Spreadsheet Modeling, Cloud Computing, Time Series Analysis, A/B Testing
+
+🌱 ***Seeking an opportunity as a data analyst to leverage my business consulting and data analytics skills to make a positive impact.***
+
+⛰⚽💻 I like to **travel, play sports, and watch TV shows** in my free time. 
+
+**Favorite Quote:** “The people who are crazy enough to think they can change the world are the ones who do.” - Steve Jobs ⚡
