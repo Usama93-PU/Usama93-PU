@@ -8,9 +8,9 @@
 
 🏆 **Winner** Inaugural ECS Hackathon Competition - 2021
 
-💪 **Skills:** MySQL, R, Tableau, Python, Excel, SAS EM, SimQuick, Minitab, PowerBI, MongoDB, PowerPoint
+💪 **Skills:** SQL, Tableau, Python, R, AWS, PowerBI, MongoDB, Google Analytics, SPSS, PySpark, Minitab, SAS EM
 
-💪 **Core Competencies:** Business Analytics, Machine Learning, Statistical Modeling, Data Mining, Data Visualization, Predictive Analytics, Prescriptive Analytics, Spreadsheet Modeling, Cloud Computing, Time Series Analysis, A/B Testing
+💪 **Core Competencies:** Data Analytics, Machine Learning, Statistical Modeling, Data Mining, Data Visualization, Data Management, Predictive Analytics, Prescriptive Analytics, ETL, Cloud Computing, Time Series Analysis, A/B Testing
 
 💪 **Certifications:** Tableau Desktop Specialist, AWS Certified Cloud Practitioner
 
